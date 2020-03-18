@@ -1,0 +1,40 @@
+{
+    "pools": [
+        {
+            "name": "main",
+			"rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 10,
+                    "name": "bleachweapons:zangetsu"
+                },
+                {
+                    "type": "item",
+                    "weight": 10,
+                    "name": "bleachweapons:bankaizangetsu"
+                },
+                {
+                    "type": "item",
+                    "weight": 10,
+                    "name": "bleachweapons:hollowbankaizangetsu"
+                },
+                {
+                    "type": "item",
+                    "weight": 10,
+                    "name": "bleachweapons:hollowzangetsu"
+                },
+                {
+                    "type": "item",
+                    "weight": 10,
+                    "name": "bleachweapons:asauchi"
+                },
+                {
+                    "type": "item",
+                    "weight": 10,
+                    "name": "bleachweapons:hollowasauchi"
+                }
+            ]
+        }
+    ]
+}

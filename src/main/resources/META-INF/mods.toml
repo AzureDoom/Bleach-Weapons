@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+issueTrackerURL="https://github.com/AzureDoom/Bleach-Weapons/issues"
+logoFile="logo.png"
+[[mods]] 
+modId="bleachweapons"
+version="${file.jarVersion}" 
+displayName="Bleach Weapons"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/bleach-weapons/" 
+authors="AzureDoomC" 
+description='''
+Adds Bleach weapons into Minecraft
+'''
